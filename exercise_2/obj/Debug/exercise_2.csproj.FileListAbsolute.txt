@@ -1,0 +1,16 @@
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_2\exercise_2\bin\Debug\exercise_2.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_2\exercise_2\bin\Debug\exercise_2.pdb
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_2\exercise_2\obj\Debug\exercise_2.csprojResolveAssemblyReference.cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_2\exercise_2\obj\Debug\exercise_2.Form1.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_2\exercise_2\obj\Debug\exercise_2.Properties.Resources.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_2\exercise_2\obj\Debug\exercise_2.csproj.GenerateResource.Cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_2\exercise_2\obj\Debug\exercise_2.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_2\exercise_2\obj\Debug\exercise_2.pdb
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_2_17621736_SIT\exercise_2\obj\Debug\exercise_2.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_2_17621736_SIT\exercise_2\obj\Debug\exercise_2.pdb
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_2_17621736_SIT\exercise_2\bin\Debug\exercise_2.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_2_17621736_SIT\exercise_2\bin\Debug\exercise_2.pdb
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_2_17621736_SIT\exercise_2\obj\Debug\exercise_2.csprojResolveAssemblyReference.cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_2_17621736_SIT\exercise_2\obj\Debug\exercise_2.Form1.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_2_17621736_SIT\exercise_2\obj\Debug\exercise_2.Properties.Resources.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_2_17621736_SIT\exercise_2\obj\Debug\exercise_2.csproj.GenerateResource.Cache
